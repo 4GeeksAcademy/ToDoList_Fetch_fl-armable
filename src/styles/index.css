@@ -21,6 +21,24 @@
     max-width: 400px;
     border: 1px solid black;
 }
+.box{
+    text-align: center;
+    display: grid;
+    grid-gap: 5px;
+    padding-left: 100px;
+    padding-right: 100px;
+    max-width: 200px;
+    margin: 5px auto;
+}
+.moveToRight{
+    margin: 5px auto;
+    text-align: end;
+    max-width: 400px;
+}
+.mainContainer{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 .button{
     margin-left: auto;
     margin-right: 5px;
